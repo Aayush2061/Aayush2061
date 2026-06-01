@@ -16,7 +16,7 @@ I enjoy taking products from idea to deployment and have experience developing f
 
 ### Languages
 
-JavaScript • Python • C • C++ • HTML • CSS
+JavaScript • Python • C • C++ 
 
 ### Frontend
 
