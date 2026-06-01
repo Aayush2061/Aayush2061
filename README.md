@@ -14,10 +14,9 @@ I enjoy taking products from idea to deployment and have experience developing f
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,flask,tailwind,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,python,flask,tailwind,git,github,vscode,gcp,postman" />
 </p>
-
 ### Languages
 
 JavaScript • Python • C • C++ 
