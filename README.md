@@ -1,46 +1,102 @@
 # Hi, I'm Aayush Bhandari 👋
 
-Computer Engineering Student at IOE Pulchowk Campus
+### Computer Engineering Student | Full Stack Developer | AI Application Builder
 
-🚀 Full Stack Developer
+I'm a Computer Engineering student at IOE Pulchowk Campus passionate about building real-world software products and AI-powered applications.
 
-📱 Builder of Jachao HealthTech App
+I enjoy taking products from idea to deployment and have experience developing full-stack web applications, mobile applications, REST APIs, cloud deployments, and AI-integrated solutions.
 
-🤖 Interested in AI-powered Applications
+🚀 Built and launched **Jachao**, an AI-powered healthtech application that reached **1000+ downloads on Google Play Store**.
 
-🌱 Currently looking for Software Engineering & MERN Stack Internship Opportunities
+🌱 Currently seeking **Software Engineering**, **Full Stack Development**, and **MERN Stack Internship Opportunities**.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-React • Next.js • React Native
+### Languages
+
+JavaScript • Python • C • C++ • HTML • CSS
+
+### Frontend
+
+React.js • Next.js • React Native • Tailwind CSS
+
+### Backend
 
 Node.js • Express.js • Flask
 
-MongoDB • JavaScript • Python
+### Database
 
-Git • GitHub • Google Cloud Platform
+MongoDB
 
----
+### Tools & Cloud
 
-## Featured Projects
-
-### Jachao
-AI-powered healthtech mobile application built using React Native, Node.js, Flask and MongoDB.
-
-### Portfolio Website
-Personal portfolio built with Next.js and Tailwind CSS.
-
-### MERN E-Commerce Platform
-Full stack e-commerce application with authentication and product management.
+Git • GitHub • Postman • Google Cloud Platform • Render • VS Code
 
 ---
 
-## Connect With Me
+## 🚀 Featured Projects
 
-LinkedIn: www.linkedin.com/in/aayush-bhandari
+### 🏥 Jachao — AI-Powered HealthTech Platform
+
+Built and launched an AI-powered healthtech mobile application featuring:
+
+* Symptom Assessment
+* Lab Report Analysis
+* Period Tracking
+* First Aid Assistance
+* Mental Health Support
+
+**Tech Stack:** React Native, Node.js, Flask, MongoDB, Gemini AI, Google Cloud Platform
+
+**Achievement:** 1000+ Google Play Store Downloads
+
+---
+
+### 🛒 MERN E-Commerce Platform
+
+Developed a full-stack e-commerce web application with:
+
+* User Authentication
+* Product Management
+* Shopping Cart Functionality
+* RESTful APIs
+* MongoDB Integration
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB
+
+---
+
+### 🌐 Personal Portfolio Website
+
+Designed and deployed a modern portfolio website to showcase projects, technical skills, and engineering journey.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS
 
 Portfolio: https://portfolio-v2-nine-chi.vercel.app/
 
-Email: aayushbhandari6789@gmail.com
+---
+
+## 🏆 Achievements
+
+* Secured Rank 93 in IOE Entrance Examination
+* District Topper in Grade 12
+* Winner of Inter-College Programming Competition
+* Successfully launched Jachao HealthTech Application with 1000+ downloads
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: [aayushbhandari6789@gmail.com](mailto:aayushbhandari6789@gmail.com)
+
+💼 LinkedIn: [www.linkedin.com/in/aayush-bhandari-68b70933a/](http://www.linkedin.com/in/aayush-bhandari-68b70933a/)
+
+🌐 Portfolio: https://portfolio-v2-nine-chi.vercel.app/
+
+🐙 GitHub: https://github.com/Aayush2061
+
+---
+
+### Thanks for visiting my profile!
